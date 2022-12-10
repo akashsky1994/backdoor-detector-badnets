@@ -1,4 +1,11 @@
 # Backdoor Detection and Pruning for BadNets
+### Content of Repo
+- B_prime_2.h5 (Model with 2% Threshold)
+- B_prime_4.h5 (Model with 4% Threshold)
+- B_prime_10.h5 (Model with 10% Threshold)
+
+### Instructions
+Instruction to run the pruning defense is provided in step by step manner within the python notebook.
 
 ### Repaired Model
 | Threshold | Channel Pruned | Clean Accuracy  | Attack Success Rate |
